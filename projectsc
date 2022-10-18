@@ -1,0 +1,12 @@
+
+. Create a job integrate with Git hub 'development' branch and fetch the code into Jenkins server
+
+2. Create Maven Integration with Jenkins. Create a Jenkins Job using maven.
+
+3. Mention any 5 advantages of Jenkins?
+
+4. What are the Pre-requisites for using Jenkins server?
+
+5.  Create a 3 Webhook job for the same code repository?
+
+Please utilize your time and practice the topics we covered so far.
